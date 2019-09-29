@@ -1,0 +1,10 @@
+Releas Notes:
+Issues: 6 issues fixed.
+
+Bug
+[FIX] sap.m.Select: Fixed incorrect click behaviour in Quartz Light
+[FIX] sap.m.Button: button fails to trigger action in some cases"
+[FIX] AlignedFlowLayout: Collision detection algorithm extended to support custom margins"
+[FIX] sap.ui.unified.calendar.Month: Fixes an issue in the DatePicker with display format for months and years."
+[FIX] Demo Kit: handle missing property"
+[FIX] sap.m.Switch: width set correctly"

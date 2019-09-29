@@ -1,0 +1,323 @@
+02aedd4c2a1 - Nia Peeva, 23 hours ago : Merge "[INTERNAL][TEST] sap.m MessageView: reference images changed"
+83c35523c9c - Cahit Guerguec, 2 days ago : Merge "[INTERNAL] Patcher: Namespace support for created elements"
+96b4b62f8d7 - Nia Peeva, 2 days ago : Merge "[INTERNAL][TEST] sap.m SelectDialog: reference images changed"
+7a23798727c - Nia Peeva, 2 days ago : Merge "[INTERNAL][TEST] sap.m ContextMenuSupportIntegration: reference images changed"
+7f881e5c9ad - Nia Peeva, 2 days ago : Merge "[INTERNAL] sap.ui.core.util.ResponsivePaddingsEnablement: Responsive paddings enablement"
+e75674b37bc - i350970, 5 days ago : [FIX] sap.m.Select: Fixed incorrect click behaviour in Quartz Light
+977b51c1909 - Nikolay Hristov, 2 days ago : Merge "[INTERNAL][FIX] sap.m.Button: button fails to trigger action in some cases"
+2c34a45d4d1 - Arley Triana Morin, 2 days ago : Merge "[FIX] AlignedFlowLayout: Collision detection algorithm extended to support custom margins"
+1b3380c03ae - Nikolay Hristov, 2 days ago : Merge "[FIX] sap.ui.unified.calendar.Month: Fixes an issue in the DatePicker with display format for months and years."
+5481be5f58b - Jordan Dichev, 2 days ago : Merge "[FIX] Demo Kit: handle missing property"
+2a0f895a3e4 - Christian Voshage, 2 days ago : Merge "[INTERNAL] renaming sap/ui/fl/internal/Connector to Storage"
+9fa0c31f66b - Diana Mihaylova, 2 days ago : Merge "[INTERNAL] sap.m.PlanningCalendar: Visual fix in the row header"
+2ab956e9887 - Gergana Marcheva, 2 days ago : Merge "[FIX] sap.m.Switch: width set correctly"
+4ac4ebce0b8 - Kevin Edinger, 2 days ago : Merge "[INTERNAL] sap.ui.rta variant management and embedded component demo app fixes"
+89d600bb0b9 - Jordan Dichev, 2 days ago : [FIX] Demo Kit: handle missing property
+f3b40b8e926 - Jay Barbhaiya, 2 days ago : Merge "[INTERNAL] ListBase: fix sticky toolbar background color for Fiori 3 theme"
+00a0877bef1 - Arley Triana Morin, 4 days ago : [FIX] AlignedFlowLayout: Collision detection algorithm extended to support custom margins
+8f6e6e04921 - Petar Dimov, 2 days ago : Merge "[INTERNAL][FIX] sap.ui.integration.widgets.Card: IconFormatter fixed"
+c349d7d5841 - Petar Dimov, 2 days ago : Merge "[INTERNAL] sap.ui.integration.widgets.Card: Local schema documentation fix"
+43912b8a4f5 - Jay Barbhaiya, 2 days ago : Merge "[INTERNAL] Table: fix selection control width for compact density"
+0cad9b0cd7e - Teodor Taushanov, 2 days ago : Merge "[FIX] sap.m.RadioButtonGroup: Demokit example now has correct ACC"
+92d6101c5ed - Pavel Kornev, 2 days ago : Merge "[INTERNAL] sap.ui.integration: restructuring DesignTime editor for Cards"
+c2bfdf80766 - Nikolay Hristov, 6 weeks ago : [FIX] sap.ui.unified.calendar.Month: Fixes an issue in the DatePicker with display format for months and years.
+358fc613c08 - Petar Dimov, 4 days ago : [INTERNAL] sap.ui.integration.widgets.Card: Local schema documentation fix
+026be85cde3 - Jay Barbhaiya, 2 days ago : [INTERNAL] ListBase: fix sticky toolbar background color for Fiori 3 theme
+29b82439b00 - Christian Voshage, 2 days ago : [INTERNAL] renaming sap/ui/fl/internal/Connector to Storage
+170ad0f8744 - Petar Dimov, 3 days ago : [INTERNAL][FIX] sap.ui.integration.widgets.Card: IconFormatter fixed
+6028dfd7f4b - Petar Dimov, 2 days ago : Merge "[INTERNAL] sap.ui.integration.CardExplorer: Landing page adjusted"
+d0eca9890ab - Diana Mihaylova, 3 days ago : [INTERNAL] sap.m.PlanningCalendar: Visual fix in the row header
+823ce234270 - Oliver Stoyanovski, 2 days ago : Merge "[INTERNAL][FIX] MultiSelectionPlugin: DeselectAll disabled when no data"
+d04ca73ee49 - Nikolay Hristov, 2 weeks ago : [INTERNAL][FIX] sap.m.Button: button fails to trigger action in some cases
+2ccad46807f - Pavel Kornev, 10 days ago : [INTERNAL] sap.ui.integration: restructuring DesignTime editor for Cards
+0f39edb8de8 - Jay Barbhaiya, 3 days ago : [INTERNAL] Table: fix selection control width for compact density
+d7352b7fe91 - Aditya Bhatia, 4 days ago : [INTERNAL] sap.ui.rta variant management and embedded component demo app fixes
+ca704e04cd5 - Teodor Taushanov, 5 days ago : [FIX] sap.m.RadioButtonGroup: Demokit example now has correct ACC
+244b609cbee - Petar Dimov, 4 days ago : [INTERNAL] sap.ui.integration.CardExplorer: Landing page adjusted
+ee2749b08bf - Tsanislav Gatev, 3 days ago : [INTERNAL] sap.ui.unified.Menu: New submenu positioning
+35b2fc1eda7 - i310817, 9 days ago : [FIX] sap.m.Switch: width set correctly
+9972f92d453 - Oliver Stoyanovski, 5 days ago : [INTERNAL][FIX] MultiSelectionPlugin: DeselectAll disabled when no data
+cf4da9d824f - Nia Peeva, 10 days ago : [INTERNAL] sap.ui.core.util.ResponsivePaddingsEnablement: Responsive paddings enablement
+ced2a790144 - Martin Georgiev, 3 days ago : [FIX] sap.m.MessagePopover: Documentation fixed
+38764c96ebc - Christian Voshage, 4 days ago : [INTERNAL][FIX] sap/ui/fl/.../PersonalizationConnector test fix
+4a3a7f7edc6 - Alexandar Mitsev, 3 days ago : Merge "[INTERNAL][TEST] sap.m Dialog: reference images changed"
+786a1e49eb7 - Jay Barbhaiya, 3 days ago : Merge "[INTERNAL] ListItemBase: focus outline fix for highlight"
+6e8d84dc808 - Martin Georgiev, 3 days ago : Merge "[INTERNAL][TEST] sap.m MultiInput: reference images changed"
+e2eba5c014e - Martin Georgiev, 3 days ago : Merge "[INTERNAL][TEST] sap.m MessagePopover: reference images changed"
+ad50c7e737b - Martin Georgiev, 3 days ago : Merge "[INTERNAL][TEST] sap.m Popover: reference images changed"
+78b6f7f8431 - Martin Georgiev, 3 days ago : Merge "[INTERNAL][TEST] sap.m ResponsivePopover: reference images changed"
+cc919b04c77 - Martin Georgiev, 3 days ago : Merge "[INTERNAL][TEST] sap.m ActionSheet: reference images changed"
+3708c504376 - Gergana Marcheva, 3 days ago : Merge "[INTERNAL][TEST] sap.m ObjectStatus: reference images changed"
+343058fbf95 - Martin Georgiev, 3 days ago : Merge "[FIX] sap.m.MultiComboBox: Shift tokenizer a bit to leave a place for focus outline"
+c035f688e76 - Martin Georgiev, 3 days ago : Merge "[FIX] sap.m.MultiInput: Shift tokenizer a bit to leave a place for focus outline"
+6ba418b338b - Martin Georgiev, 3 days ago : Merge "[INTERNAL] sap.m.RadioButton: Label in RTL aligned"
+30fddf3f4dd - Tsanislav Gatev, 3 days ago : Merge "[INTERNAL][TEST] sap.m MenuButtonMenuPosition: reference images changed"
+c667857b097 - Konstantin Kondov, 3 days ago : Merge "[FIX] sap.m.Carousel: Changing pages with fast clicks is now possible"
+0af78b3fdb6 - Teodor Taushanov, 3 days ago : Merge "[INTERNAL][TEST] sap.m CarouselNoPages: reference images changed"
+9103307e235 - Pavel Kornev, 3 days ago : Merge "[INTERNAL] sap.ui.rta: fail stable IDs validation if the application explicitly sets flexEnabled=true"
+c573154e1d6 - Teodor Taushanov, 3 days ago : Merge "[INTERNAL][TEST] sap.m IconTabBar: reference images changed"
+e5823a2a855 - Konstantin Kondov, 3 days ago : Merge "[INTERNAL][TEST] sap.m Label: reference images changed"
+c13ac890fca - Jordan Dichev, 3 days ago : Merge "[FIX] Demo Kit: Hide restricted APIs"
+239044837b1 - Ivaylo Plashkov, 3 days ago : Merge "[INTERNAL] sap.m.SelectDialog: BeginButton no longer destroyed on type switching"
+0ccc19caa3b - Petar Dimov, 3 days ago : Merge "[FIX] sap.m.Text: Hyphenation for single words fixed in IE11"
+c5f1c0cc360 - Sebastian Allmann, 3 days ago : Merge "[INTERNAL][TEST] sap.ui.layout ColumnLayoutVisual: reference images changed"
+9acbc8d568a - i331228, 4 days ago : [INTERNAL][TEST] sap.ui.layout ColumnLayoutVisual: reference images changed
+45e8d03a302 - i331228, 4 days ago : [INTERNAL][TEST] sap.m ResponsivePopover: reference images changed
+37c0fc3a975 - i331228, 4 days ago : [INTERNAL][TEST] sap.m Popover: reference images changed
+a3248ea132a - i331228, 4 days ago : [INTERNAL][TEST] sap.m ObjectStatus: reference images changed
+37cd7398cad - i331228, 4 days ago : [INTERNAL][TEST] sap.m MultiInput: reference images changed
+18887def737 - i331228, 4 days ago : [INTERNAL][TEST] sap.m MessageView: reference images changed
+a2f9d0b7e6d - i331228, 4 days ago : [INTERNAL][TEST] sap.m MessagePopover: reference images changed
+cf8b78145c0 - i331228, 4 days ago : [INTERNAL][TEST] sap.m MenuButtonMenuPosition: reference images changed
+1987a651891 - i331228, 4 days ago : [INTERNAL][TEST] sap.m Label: reference images changed
+efb02061329 - i331228, 4 days ago : [INTERNAL][TEST] sap.m IconTabBar: reference images changed
+4b6fef326fa - i331228, 4 days ago : [INTERNAL][TEST] sap.m Dialog: reference images changed
+ce8b8f64139 - i331228, 4 days ago : [INTERNAL][TEST] sap.m ContextMenuSupportIntegration: reference images changed
+ebbe1a07193 - i331228, 4 days ago : [INTERNAL][TEST] sap.m CarouselNoPages: reference images changed
+73017b36462 - i331228, 4 days ago : [INTERNAL][TEST] sap.m ActionSheet: reference images changed
+bd344d599b3 - i331228, 4 days ago : [INTERNAL][TEST] sap.m SelectDialog: reference images changed
+8e6cbd81313 - Diana Pazheva, 4 days ago : Merge "[FIX] sap.uxap.ObjectPageLayout: Ensured correct scroll position"
+f4c2a51a3f7 - Alexander Deutschmann, 4 days ago : Merge "[INTERNAL] CreationRow: Mark the event if CTRL+Enter was handled"
+cdef6f57d9b - Oliver Stoyanovski, 4 days ago : Merge "[INTERNAL][FIX] ui.Table: Fiori 3 selection indication and fixed rows"
+825feb5b399 - sapui5, 4 days ago : VERSION CHANGE ONLY
+da981922fe5 - Alexander Deutschmann, 4 days ago : [INTERNAL] CreationRow: Mark the event if CTRL+Enter was handled
+1ad0cb5d576 - Georgi Hristanov, 4 days ago : Merge "[FIX] sap.m.Link: Accessibility improved"
+0ed5bb84adf - sapui5, 4 days ago : [INTERNAL] Release notes for version 1.71.0
+089ff92f358 - Georgi Hristanov, 4 days ago : [FIX] sap.m.Link: Accessibility improved
+10e501b38be - Valentina Tsonina, 4 days ago : Merge "[INTERNAL] Translation delivery: commit by LX Lab"
+5cdcbf94925 - service.tip.git, 10 days ago : [INTERNAL] Translation delivery: commit by LX Lab
+f2f3ef8d6d9 - Pavel Kornev, 5 days ago : [INTERNAL] sap.ui.rta: fail stable IDs validation if the application explicitly sets flexEnabled=true
+a16f72540c2 - Clemens Maier, 5 days ago : Merge "[FIX] v2/ODataModel: Canonical resolving of preliminary context paths"
+79f64531e35 - Tuan Dat Ngo, 5 days ago : Merge "[INTERNAL] sap/ui/fl/...CF-connectors merge compVariants into changes"
+e8ff23ebd2e - Petar Dimov, 5 days ago : Merge "[INTERNAL] Card integration bundle documentation"
+117e57e04e3 - Petar Dimov, 5 days ago : Merge "[INTERNAL] sap.ui.integration.util.CustomElements: Implementation rework"
+6e834567dd7 - Christian Voshage, 5 days ago : [INTERNAL] sap/ui/fl/...CF-connectors merge compVariants into changes
+f4588d010a8 - Christian Voshage, 5 days ago : Merge "[INTERNAL] sap/ui/fl/...CF-connectors handle internal urls on their own"
+7813002db35 - Jay Barbhaiya, 5 days ago : [INTERNAL] ListItemBase: focus outline fix for highlight
+27bc2ff4e01 - Tuan Dat Ngo, 5 days ago : Merge "[INTERNAL][FIX] sap.ui.fl : Correct getUrl in apply connectors Utils"
+c02742b5fc2 - Tereza Chobanova, 5 days ago : Merge "[FEATURE] sap.ui.unified.Menu: Fiori 3 visual design update"
+5e42f2fe7a7 - Aditya Bhatia, 5 days ago : Merge "[INTERNAL] sap.ui.rta/fl: improve error handling with revertChange - 2"
+ea2516b3060 - Petar Dimov, 4 weeks ago : [INTERNAL] sap.ui.integration.util.CustomElements: Implementation rework
+2b383d74b32 - Christian Voshage, 5 days ago : [INTERNAL] sap/ui/fl/...CF-connectors handle internal urls on their own
+fcef2dc0fff - Konstantin Kondov, 5 days ago : [FIX] sap.m.Carousel: Changing pages with fast clicks is now possible
+19f038ca564 - Kevin Edinger, 6 days ago : [INTERNAL] sap.ui.rta/fl: improve error handling with revertChange - 2
+6109672602f - Clemens Maier, 5 days ago : [FIX] v2/ODataModel: Canonical resolving of preliminary context paths
+40a60acc6ad - Tsanislav Gatev, 13 days ago : [FEATURE] sap.ui.unified.Menu: Fiori 3 visual design update
+a277e650a9a - Christian Voshage, 5 days ago : Merge "[INTERNAL] sap/ui/fl custom connectors can be split between apply & write"
+f6b85ebb2ff - Tuan Dat Ngo, 5 days ago : [INTERNAL][FIX] sap.ui.fl : Correct getUrl in apply connectors Utils
+2094886d3cb - Rainer Liebisch, 5 days ago : Merge "[FIX] sap.ui.dt: Cleanup of unnecessary lib in DragDrop plugin"
+fa1701d5678 - Gergana Marcheva, 5 days ago : Merge "[FIX] sap.ui.core.date.Islamic: Customization fall-back format is always A"
+f8d89c64eec - Christian Voshage, 6 days ago : [INTERNAL] sap/ui/fl custom connectors can be split between apply & write
+24645a57a69 - Gergana Marcheva, 5 days ago : Merge "[FIX] sap.m.TileContainer: focus index is correct now"
+abaf72f35fd - Oliver Stoyanovski, 5 days ago : Merge "[INTERNAL] MultiSelectionPlugin: Fix scrolling when limit reached"
+e8a8f394a73 - Oliver Stoyanovski, 5 days ago : Merge "[INTERNAL][FIX] MultiSelectionPlugin: iIndexFrom is not affected when equal to iIndexTo"
+2407c2f6884 - Svetoslav Spasov, 10 days ago : [INTERNAL] Card integration bundle documentation
+b9c90b42092 - i310817, 12 days ago : [FIX] sap.ui.core.date.Islamic: Customization fall-back format is always A
+b74942cd5fe - Rainer Liebisch, 6 days ago : [FIX] sap.ui.dt: Cleanup of unnecessary lib in DragDrop plugin
+4d383028dbc - Knut Thies, 5 days ago : Merge "[INTERNAL] Merge origin/feature-odata-v4 into master"
+9173d26c341 - Iliana Bobeva, 5 days ago : Merge "[FIX] sap.m.OverflowToolbar: No exception when content is undefined"
+5e77217347c - Gergana Kremenska, 5 days ago : Merge "[INTERNAL] sap.f.GridContainer: Disclaimer is now updated"
+574efcf15b6 - Ivaylo Plashkov, 10 days ago : [INTERNAL] sap.m.SelectDialog: BeginButton no longer destroyed on type switching
+51e772e4e71 - Nia Peeva, 5 days ago : Merge "[FIX] sap.m.ActionSheet: Scrollbar is now visible on tablet"
+9e0e3474c3c - Knut Thies, 5 days ago : [INTERNAL] Merge origin/feature-odata-v4 into master
+435f07d754d - Alexander Mathias Riess, 5 days ago : Merge "[INTERNAL] sap.ui.model.analytics.AnalyticalBinding: GrandTotal without $orderby" into feature-odata-v4
+5221d0d2323 - Sebastian Wennemers, 5 days ago : Merge "[INTERNAL] sap/ui/fl/Change got a comment why we store a appDescriptor flag"
+46236083edc - Lidiya Georgieva, 5 days ago : Merge "[INTERNAL] sap.m.BusyDialog: Quartz theme adjustments"
+bc08479e9cc - Sebastian Wennemers, 5 days ago : Merge "[INTERNAL] sap.ui.fl update API visibility jsdoc"
+da01bb84866 - Gergana, 10 days ago : [INTERNAL] sap.f.GridContainer: Disclaimer is now updated
+51654e2c08f - Iliana Bobeva, 5 days ago : [FIX] sap.m.OverflowToolbar: No exception when content is undefined
+8ffd952aeaf - Knut Thies, 5 days ago : Merge "[INTERNAL] Merge origin/master into feature-odata-v4" into feature-odata-v4
+9ab45a73126 - Nia Peeva, 5 days ago : [FIX] sap.m.ActionSheet: Scrollbar is now visible on tablet
+f704af3c3d3 - Lidiya Georgieva, 5 days ago : [INTERNAL] sap.m.BusyDialog: Quartz theme adjustments
+0f24e1c0e29 - Alexander Riess, 10 days ago : [INTERNAL] sap.ui.model.analytics.AnalyticalBinding: GrandTotal without $orderby
+2a88ae54ceb - Christian Voshage, 5 days ago : [INTERNAL] sap/ui/fl/Change got a comment why we store a appDescriptor flag
+4c2e6e6f731 - Oliver Stoyanovski, 6 days ago : [INTERNAL][FIX] MultiSelectionPlugin: iIndexFrom is not affected when equal to iIndexTo
+65926a7c95f - Oliver Stoyanovski, 6 days ago : [INTERNAL][FIX] ui.Table: Fiori 3 selection indication and fixed rows
+ee3b3b38653 - Knut Thies, 5 days ago : Merge "[INTERNAL] sap.ui.model.odata.v4.ODataModel#hasPendingChanges: works also with pending cache promise" into feature-odata-v4
+3a70c8ad01b - Knut Thies, 5 days ago : [INTERNAL] Merge origin/master into feature-odata-v4
+109ba3fcce7 - Sebastian Wennemers, 9 days ago : [INTERNAL] sap.ui.fl update API visibility jsdoc
+2bc4e21fab7 - Christian Voshage, 5 days ago : Merge "[INTERNAL] sap/ui/fl/Change has a flag for descriptor changes"
+3c8960cc4c0 - Alexander Mathias Riess, 5 days ago : Merge "[INTERNAL] sap.ui.model.odata.v4.Context: allow #requestSideEffects for ODCB without cache" into feature-odata-v4
+73339d67d93 - Tuan Dat Ngo, 5 days ago : Merge "[INTERNAL] sap.ui.fl : fix bugs in new connectors"
+93af9059a1f - Markus Romaniw, 5 days ago : Merge "[INTERNAL] Add API Version to PersonalizationConnector"
+027625b079d - Plamen Ivanov, 5 days ago : Merge "[FEATURE] sap.f.DynamicPage: Aligned with Quartz Light specification"
+50513a8571f - Christian Voshage, 6 days ago : [INTERNAL] sap/ui/fl/Change has a flag for descriptor changes
+687272a08a5 - Petya Markova-Bogdanova, 5 days ago : Merge "[FIX] sap.m.Breadcrumbs: separatorStyle key-value pair names are now matching"
+baace1f0c30 - Nia Peeva, 5 days ago : Merge "[FIX] sap.m.Wizard: Detach event listeners from the step when removed"
+47880cce133 - Nayden Naydenov, 5 days ago : Merge "[FIX] sap.m.Toolbar: Corrected vertical alignment"
+22c25f5c0f7 - Tuan Dat Ngo, 6 days ago : [INTERNAL] sap.ui.fl : fix bugs in new connectors
+f88141635b4 - Knut Thies, 10 days ago : [INTERNAL] sap.ui.model.odata.v4.ODataModel#hasPendingChanges: works also with pending cache promise
+fb94ba809b4 - Alexander Riess, 3 weeks ago : [INTERNAL] sap.ui.model.odata.v4.Context: allow #requestSideEffects for ODCB without cache
+e5e1f596e31 - Markus Romaniw, 9 days ago : [INTERNAL] Add API Version to PersonalizationConnector
+fd52bd4e89a - Alexander Deutschmann, 6 days ago : [INTERNAL] MultiSelectionPlugin: Fix scrolling when limit reached
+f87a927328b - Aditya Bhatia, 6 days ago : Merge "[INTERNAL]: Remove AdaptUI button when ushell container is available"
+ecfd8bc451c - Aditya Bhatia, 6 days ago : Merge "[INTERNAL] sap.ui.fl.Utils: Remove unused functions"
+994cef3f38c - Christian Voshage, 6 days ago : Merge "[INTERNAL] sap.ui.fl merger features with default values"
+a2d8489b953 - Thuy Boehm, 10 days ago : [INTERNAL] sap.ui.fl merger features with default values
+9dfe5e11bb8 - Knut Thies, 6 days ago : Merge "[INTERNAL] Merge origin/feature-odata-v4 into master"
+683a5503d87 - Sven Bernhard, 6 days ago : Merge "[INTERNAL] sap.ui.model.odata.v4.AnnotationHelper.format: strip off "_it/" prefix" into feature-odata-v4
+3aaedde46ef - Knut Thies, 6 days ago : [INTERNAL] Merge origin/feature-odata-v4 into master
+75ff8595094 - Jay Barbhaiya, 6 days ago : [INTERNAL] ListBase: range selection fix
+46fd75d8fdf - Jay Barbhaiya, 6 days ago : Merge "[INTERNAL] StandardListItem: adapting wrapping explored sample"
+d978ed860a0 - Knut Thies, 6 days ago : [INTERNAL] Merge origin/master into feature-odata-v4
+687a9af15c1 - Dr. Thomas Chadzelek, 10 days ago : [INTERNAL] sap.ui.model.odata.v4.AnnotationHelper.format: strip off "_it/" prefix
+170af83de11 - sapui5, 6 days ago : [INTERNAL] Release notes for version 1.71.0
+ccb221b3956 - i310817, 9 days ago : [FIX] sap.m.TileContainer: focus index is correct now
+8e22dfdb5b0 - Tuan Dat Ngo, 9 days ago : Merge "[INTERNAL] sap.ui.fl Implement single Create/Update/Delete in connectors"
+84857ded4ee - Diana Mihaylova, 9 days ago : Merge "[FIX] sap.m.TabStripItem: Close button has tooltip now"
+73506e37e08 - Jens Pflueger, 9 days ago : Merge "[INTERNAL] ColumnHeaderPopover: Take item visibility into account"
+b0152e3f240 - Jay Barbhaiya, 9 days ago : [INTERNAL] StandardListItem: adapting wrapping explored sample
+6d2421bb782 - Brijesh Lochan, 9 days ago : Merge "[FIX] Fixing incorrect rolling back of visual UI changes when app"
+f872b6327bf - Lidiya Georgieva, 9 days ago : Merge "[INTERNAL] sap.m.Dialog and sap.m.BusyDialog: Quartz theme adjustments"
+581803189b2 - Yavor Ivanov, 9 days ago : [FIX] sap.m.Wizard: Detach event listeners from the step when removed
+bc05c1505ce - Jay Barbhaiya, 9 days ago : Merge "[FEATURE] StandardListItem: visual adaptation"
+982237a1ce5 - Brijesh Lochan, 9 days ago : [FIX] Fixing incorrect rolling back of visual UI changes when app
+4ac733a5df5 - Jens Pflueger, 3 weeks ago : [INTERNAL] ColumnHeaderPopover: Take item visibility into account
+79066c0ea44 - Aditya Bhatia, 9 days ago : [INTERNAL]: Remove AdaptUI button when ushell container is available
+7effdef255a - Iliana Bobeva, 9 days ago : Merge "[FIX] sap.m.OverflowToolbar: Order in controls' collection is fixed"
+ad37f7f2598 - Diana, 9 days ago : [FIX] sap.uxap.ObjectPageLayout: Ensured correct scroll position
+e2d97e42b30 - Malte Wedel, 9 days ago : Merge "[FIX] FilterProcessor: Cache normalized values for better performance"
+35cde730498 - Jay Barbhaiya, 12 days ago : [FEATURE] StandardListItem: visual adaptation
+ed6a9eda35e - Martin Häuser, 7 weeks ago : [FIX] P13nConditionPanel: improve date validation
+bd89d4e3915 - i310817, 9 days ago : [FIX] sap.m.TabStripItem: Close button has tooltip now
+81d5d993a93 - Brijesh Lochan, 9 days ago : Merge "[INTERNAL] Stopping app variant and all changes to be transportable at"
+9cfe2257252 - Iliana Bobeva, 2 weeks ago : [FIX] sap.m.OverflowToolbar: Order in controls' collection is fixed
+fdd2c011058 - Petya Bogdanova, 3 weeks ago : [FIX] sap.m.Breadcrumbs: separatorStyle key-value pair names are now matching
+09f819a20c1 - Petar Dimov, 9 days ago : Merge "[INTERNAL] sap.ui.core.support.RuleEngineOpaExtension: Added standardized file extension"
+d66df206409 - Petya Markova-Bogdanova, 9 days ago : Merge "[INTERNAL] Demo Kit: New dev guide task for local development"
+5ae79422ad5 - Petar Dimov, 9 days ago : [FIX] sap.m.Text: Hyphenation for single words fixed in IE11
+aa29aeda74d - Lidiya Georgieva, 2 weeks ago : [INTERNAL] sap.m.Dialog and sap.m.BusyDialog: Quartz theme adjustments
+9203fc80832 - Aditya Bhatia, 10 days ago : [INTERNAL] sap.ui.fl.Utils: Remove unused functions
+bca08b2e85a - Georgi Hristanov, 9 days ago : Merge "[FIX] sap.m.ObjectStatus: Accessibility improved"
+f9b6b3e478e - Kevin Edinger, 9 days ago : Merge "[INTERNAL] sap.ui.rta/fl: improve error handling with revertChange"
+ff35ee3faeb - Tuan Dat Ngo, 9 days ago : [INTERNAL] sap.ui.fl Implement single Create/Update/Delete in connectors
+9974cb10c80 - Wedel, Malte, 10 days ago : [FIX] FilterProcessor: Cache normalized values for better performance
+ca890a88bfe - Brijesh Lochan, 3 weeks ago : [INTERNAL] Stopping app variant and all changes to be transportable at
+35372f25cb6 - Pavan Nayak, 10 days ago : Merge "[FIX] TreeItemBase: selection handling on model reset enhanced"
+91ffac9e164 - Konstantin Kondov, 10 days ago : Merge "[INTERNAL] sap.m.Label: The asterisk is now smaller and darker"
+b96baca4744 - Jordan Dichev, 10 days ago : [FIX] Demo Kit: Hide restricted APIs
+7b1ee700e40 - Jay Barbhaiya, 10 days ago : Merge "[INTERNAL] ListBase: range selection fix"
+faf71606769 - Martin Georgiev, 11 days ago : [INTERNAL] sap.m.RadioButton: Label in RTL aligned
+6ab0765de5b - Janik Koeppel, 10 days ago : Merge "[INTERNAL] Form: Fix for OpaTests"
+fa649cbcbec - Pavan, 10 days ago : [FIX] TreeItemBase: selection handling on model reset enhanced
+3b355c25bc7 - Georgi Hristanov, 10 days ago : Merge "[INTERNAL] sap.m.ObjectHeader: Test page adjusted"
+ffca4be0fb7 - Georgi Hristanov, 10 days ago : [FIX] sap.m.ObjectStatus: Accessibility improved
+86053735119 - Knut Thies, 3 weeks ago : [INTERNAL] sap.ui.model.odata.v4.lib._GroupLock#isModifying
+ff007c8d6ee - Jay Barbhaiya, 2 weeks ago : [INTERNAL] ListBase: range selection fix
+47e742f4ffe - Gergana Marcheva, 10 days ago : Merge "[FIX] sap.ui.unified.FileUploader: change event is not fired when the cancel button is pressed"
+57acbb48bba - Tsanislav Gatev, 10 days ago : Merge "[FIX] sap.m.MenuButton: Disabled button is no longer highlighted on press"
+8af6e2d4ddd - Alexandar Mitsev, 10 days ago : Merge "[INTERNAL] sap.f.GridContainer: IE polyfill improved"
+6fef435400f - Pavel Kornev, 10 days ago : Merge "[INTERNAL] sap.ui.integration: hide DesignTime editor button in Cards Explorer on openui5nightly"
+499e3dfc5e0 - Alexandar Mitsev, 4 weeks ago : [INTERNAL] sap.f.GridContainer: IE polyfill improved
+37fd3730dd5 - Janik, 10 days ago : [INTERNAL] Form: Fix for OpaTests
+a773eee9a98 - Kevin Edinger, 10 days ago : [INTERNAL] sap.ui.rta/fl: improve error handling with revertChange
+b79dfcb272b - Pavel Kornev, 10 days ago : [INTERNAL] sap.ui.integration: hide DesignTime editor button in Cards Explorer on openui5nightly
+dd84f22f5be - Tuan Dat Ngo, 10 days ago : Merge "[INTERNAL] sap.ui.fl: update single update/delete action of connectors"
+7aa36bc76e2 - Konstantin Kondov, 10 days ago : [INTERNAL] sap.m.Label: The asterisk is now smaller and darker
+e505e87e363 - Nayden Naydenov, 11 days ago : [FIX] sap.m.Toolbar: Corrected vertical alignment
+7821ec4ed8a - Sebastian Wennemers, 10 days ago : Merge "[INTERNAL] core - add designtime messagebundle"
+dd4538441e1 - Tereza Chobanova, 10 days ago : Merge "[FIX] sap.m.PlanningCalendar: formats picker text properly in foreign languages"
+4305628851e - Lidiya Georgieva, 10 days ago : Merge "[INTERNAL] sap.m.Input: Sucess value state border is now 1 px wide"
+f1505e57cc0 - i310817, 12 days ago : [FIX] sap.ui.unified.FileUploader: change event is not fired when the cancel button is pressed
+9ad0d92253d - Georgi Hristanov, 10 days ago : Merge "[INTERNAL] sap.m.ObjectStatus: Accessibility improved"
+539f9141789 - Gergana Kremenska, 10 days ago : Merge "[INTERNAL] sap.m.Input: compostion for Japanese is now working correctly"
+43733abb4c4 - Ivaylo Plashkov, 10 days ago : Merge "[INTERNAL] sap.m.Slider: Tickmarks not shown properly"
+eb97aa6237b - Pavel Kornev, 11 days ago : Merge "[INTERNAL] integration.dt bindings cleanup and refactoring fixes"
+3f19ad68c20 - Aditya Bhatia, 11 days ago : Merge "[INTERNAL][FIX] sap.ui.dt.DesignTime: Before 'synced' event is fired asynchronously, designTime could go to 'syncing' again. So by the time 'synced' is actually fired, the status might have changed."
+71751c224bc - Aditya Bhatia, 11 days ago : [INTERNAL][FIX] sap.ui.dt.DesignTime: Before 'synced' event is fired asynchronously, designTime could go to 'syncing' again. So by the time 'synced' is actually fired, the status might have changed.
+5c48a46ffa5 - Tuan Dat Ngo, 2 weeks ago : [INTERNAL] sap.ui.fl: update single update/delete action of connectors
+a55f59a45cf - Mikhail Benderskiy, 11 days ago : [INTERNAL] integration.dt bindings cleanup and refactoring fixes
+db1fd1f0c21 - Jiawei Cao, 11 days ago : Merge "[FEATURE] SAP Icons v4.5 update"
+cf9a2967123 - Tereza Chobanova, 11 days ago : [FIX] sap.m.PlanningCalendar: formats picker text properly in foreign languages
+209d3607698 - Yavor Ivanov, 11 days ago : [FIX] sap.m.MultiComboBox: Shift tokenizer a bit to leave a place for focus outline
+368fdecd1f1 - i350970, 6 weeks ago : [FEATURE] sap.f.DynamicPage: Aligned with Quartz Light specification
+e8d519db1ca - Mikhail Benderskiy, 11 days ago : Merge "[INTERNAL] integration.dt refactoring"
+b2b7c645f63 - Yavor Ivanov, 11 days ago : [FIX] sap.m.MultiInput: Shift tokenizer a bit to leave a place for focus outline
+b9795fc2fba - Daniel Vladinov, 11 days ago : Merge "[INTERNAL] sap.f.GridContainer: Experimental flag is now removed"
+c5a61226f14 - Sebastian Wennemers, 11 days ago : [INTERNAL] core - add designtime messagebundle
+1366342bddd - Petar Dimov, 11 days ago : [INTERNAL] sap.ui.core.support.RuleEngineOpaExtension: Added standardized file extension
+5968176d580 - Yavor Ivanov, 11 days ago : Merge "[FIX] sap.m.MultiComboBox: Sync selectedKeys & selectedItems"
+10507facfd2 - Alexandar Mitsev, 11 days ago : Merge "[INTERNAL] sap.ui.integration.Widget: Fix configuration"
+ca1cec927b8 - Ivaylo Plashkov, 11 days ago : Merge "[INTERNAL] sap.m.Tokenizer: Unexpected token placement"
+010e420de83 - Gergana, 3 weeks ago : [INTERNAL] sap.m.Input: compostion for Japanese is now working correctly
+9f810f1e195 - Ivaylo Plashkov, 11 days ago : [INTERNAL] sap.m.Slider: Tickmarks not shown properly
+2918dd154d6 - Jay Barbhaiya, 11 days ago : Merge "[INTERNAL] Table: explored sample fix"
+8d7008f7a60 - Sebastian Wennemers, 11 days ago : Merge "[INTERNAL] sap.ui.rta: One liner API for key user adaptation"
+90bc5342e1b - Ivaylo Plashkov, 11 days ago : [INTERNAL] sap.m.Tokenizer: Unexpected token placement
+3e0fd818ff7 - Cahit Gürgüc, 11 days ago : [INTERNAL] Patcher: Namespace support for created elements
+0762f3fafa9 - Nayden Naydenov, 11 days ago : Merge "[INTERNAL] sap.m.Image: Updated Demo Kit sample"
+eec007deaf3 - Gergana, 11 days ago : [INTERNAL] sap.f.GridContainer: Experimental flag is now removed
+16d729891e2 - Thuy Sophie Boehm, 11 days ago : Merge "[INTERNAL] sap.ui.fl separated layer functions from Utils in LayerUtils"
+711f687fe8e - Jay Barbhaiya, 12 days ago : [INTERNAL] Table: explored sample fix
+78f93b76d06 - Tsanislav Gatev, 11 days ago : [FIX] sap.m.MenuButton: Disabled button is no longer highlighted on press
+b911a7a7dfe - Nayden Naydenov, 11 days ago : Merge "[FIX] sap.f.DynamicPage/sap.uxap.ObjectPageLayout: Visual improvements"
+2d173cb4511 - Tereza Chobanova, 11 days ago : Merge "[FEATURE] sap.m.SinglePlanningCalendar: fires viewChange event"
+68db446d8d3 - Diana Mihaylova, 11 days ago : Merge "[FIX] sap.m.Switch: Fiori 3 VD changes"
+377db931cee - Alexandar Mitsev, 11 days ago : Merge "[INTERNAL][FIX] sap.f.GridContainer: Fix minRows for IE"
+9aff9caa4ff - Jiawei Cao, 12 days ago : [FEATURE] SAP Icons v4.5 update
+bd9199c132d - Nikolay Hristov, 11 days ago : Merge "[INTERNAL] sap.m.SegmentedButton: New Selected State parameters added"
+e470a26aa98 - Tereza Chobanova, 2 weeks ago : [FEATURE] sap.m.SinglePlanningCalendar: fires viewChange event
+14d4a19b643 - Ivaylo Plashkov, 12 days ago : [INTERNAL] sap.m.RangeSlider: Handle position in RTL mode
+0641f3cb451 - Valentina Tsonina, 11 days ago : Merge "[INTERNAL] Translation delivery: commit by LX Lab"
+0af6cd5067f - Tsanislav Gatev, 11 days ago : Merge "[INTERNAL] sap.ui.unified.ColorPickerPopover: Submit button label updated"
+dbb24000fa1 - service.tip.git, 12 days ago : [INTERNAL] Translation delivery: commit by LX Lab
+2b7bff998d6 - Mikhail Benderskiy, 12 days ago : [INTERNAL] integration.dt refactoring
+96c09d2dfbe - Lidiya Georgieva, 12 days ago : Merge "[INTERNAL] sap.m.IconTabBar: Adjustments for IconTabHeader in Quartz theme"
+8a1275eb938 - Lidiya Georgieva, 3 weeks ago : [INTERNAL] sap.m.Input: Sucess value state border is now 1 px wide
+26e9d2480df - Clemens Maier, 12 days ago : Merge "[INTERNAL][FIX] message/Message: Control id change event"
+474a44fa592 - Diana Mihaylova, 12 days ago : [FIX] sap.m.Switch: Fiori 3 VD changes
+a0da2598133 - Clemens Maier, 12 days ago : Merge "[INTERNAL] v2/ODataModel: Canonical request calculation"
+a49243d536d - Teodor Taushanov, 12 days ago : Merge "[INTERNAL] sap.f.Card: Actions refactoring"
+7cd88d50782 - Clemens Maier, 12 days ago : [INTERNAL][FIX] message/Message: Control id change event
+6cac957d5e1 - Tsanislav Gatev, 12 days ago : Merge "[FIX] sap.m.PlanningCalendar: Sorting sample corrected"
+d513d0af4b6 - Matthias Osswald, 12 days ago : Merge "[INTERNAL] Karma: Only print coverage summary"
+bca4dbe9fdb - Lidiya Georgieva, 13 days ago : [INTERNAL] sap.m.IconTabBar: Adjustments for IconTabHeader in Quartz theme
+22d321c06c8 - Gergana Marcheva, 12 days ago : Merge "[FIX] sap.ui.layout.DynamicSideContent: documentation updated"
+4ba05794278 - Tsanislav Gatev, 12 days ago : [FIX] sap.m.PlanningCalendar: Sorting sample corrected
+02198549b48 - Thomas Chadzelek, 12 days ago : Merge "[INTERNAL] sap.ui.model.odata.v4.lib._V4MetadataConverter: gracefully ignore..." into feature-odata-v4
+f8f07837eb0 - Yavor Ivanov, 12 days ago : [FIX] sap.m.MultiComboBox: Sync selectedKeys & selectedItems
+d8d8c8d27eb - Aditya Bhatia, 2 weeks ago : [INTERNAL] sap.ui.rta: One liner API for key user adaptation
+ea7fafc0ca3 - Thuy Boehm, 3 weeks ago : [INTERNAL] sap.ui.fl separated layer functions from Utils in LayerUtils
+eeaeee1df39 - Georgi Hristanov, 12 days ago : [INTERNAL] sap.m.ObjectStatus: Accessibility improved
+d927c16d6c9 - Alexandar Mitsev, 12 days ago : Merge "[FEATURE] sap.f.GridDropInfo: Setting dimensions of the indicator is now possible"
+283971d2404 - Kevin Edinger, 12 days ago : Merge "[INTERNAL] sap.ui.fl: fix moveControls for already performed move"
+fc6d7897928 - Aditya Bhatia, 12 days ago : Merge "[INTERNAL] sap.ui.fl.variants URLHandler stateless implementation and more"
+9fa6c5a3867 - Petar Dimov, 3 weeks ago : [FEATURE] sap.f.GridDropInfo: Setting dimensions of the indicator is now possible
+3691e29a03f - Alexandar Mitsev, 3 weeks ago : [INTERNAL][FIX] sap.f.GridContainer: Fix minRows for IE
+01f3505cf24 - Markus Romaniw, 12 days ago : Merge "[INTERNAL][FIX] sap.ui.fl Adjust tests in Connector.qunit"
+3239511aca8 - Kevin Edinger, 12 days ago : [INTERNAL] sap.ui.fl: fix moveControls for already performed move
+5d5a887059f - Gergana Marcheva, 12 days ago : Merge "[INTERNAL][FIX] sap.m.Link: RTA dialog for changing the target is now translatable"
+dbfaabadf1b - Nikolay Hristov, 12 days ago : Merge "[INTERNAL] sap.m.ViewSettingsDialog: Enable/disable Select All checkbox"
+d2d47c6c1ee - Clemens Maier, 13 days ago : [INTERNAL] v2/ODataModel: Canonical request calculation
+08733a8bd55 - Nikolay Hristov, 3 weeks ago : [INTERNAL] sap.m.SegmentedButton: New Selected State parameters added
+5155b773637 - Frank Weigel, 12 days ago : Merge "[INTERNAL] sap.ui.support: make integration test more robust"
+52102432c45 - Georgi Hristanov, 12 days ago : Merge "[INTERNAL][FIX] ui.unified.CalendarTimeIntervals: Test page adjusted"
+9cc7e610b19 - Gergana Kremenska, 12 days ago : Merge "[INTERNAL] sap.m.Input: Visual test are now correct"
+d4b06beee64 - Aditya Bhatia, 5 weeks ago : [INTERNAL] sap.ui.fl.variants URLHandler stateless implementation and more
+acc4ce2d5e9 - Teodor Taushanov, 4 weeks ago : [INTERNAL] sap.f.Card: Actions refactoring
+1b3ee53b4e1 - Tsanislav Gatev, 13 days ago : Merge "[FIX] sap.m.PlanningCalendar: Expand functionality select removed for mobile devices"
+3a690a0ea1a - Petar Dimov, 13 days ago : Merge "[FIX] sap.m.Carousel: visiblePagesCount now stops loop in all directions"
+c49c57e70b7 - Aditya Bhatia, 13 days ago : Merge "[INTERNAL] sap.ui.fl.Utils: Replace uniqWith() with lodash _uniqWith()"
+bb4e293c931 - Aditya Bhatia, 13 days ago : Merge "[INTERNAL] sap.ui.fl.Utils: Replace omit() with lodash _omit()"
+86b941e4261 - Aditya Bhatia, 13 days ago : Merge "[INTERNAL] sap.ui.fl: remove apply.connectors.Utils.getSubsetOfObjects()"
+c00566e9525 - Christian Voshage, 13 days ago : Merge "[INTERNAL] sap/ui/fl/write/_internal/connector/KeyUserConnector requests token correct"
+9ed45e93230 - Tsanislav Gatev, 13 days ago : [INTERNAL] sap.ui.unified.ColorPickerPopover: Submit button label updated
+fe6d216dadf - Dr. Thomas Chadzelek, 2 weeks ago : [INTERNAL] sap.ui.model.odata.v4.lib._V4MetadataConverter: gracefully ignore...
+0b3c9fcd49a - Tsanislav Gatev, 13 days ago : [FIX] sap.m.PlanningCalendar: Expand functionality select removed for mobile devices
+7ccb18e11a0 - Petar Dimov, 2 weeks ago : [FIX] sap.m.Carousel: visiblePagesCount now stops loop in all directions
+9b9545839a2 - i310817, 2 weeks ago : [INTERNAL][FIX] sap.m.Link: RTA dialog for changing the target is now translatable
+c7658d8224b - i310817, 2 weeks ago : [FIX] sap.ui.layout.DynamicSideContent: documentation updated
+61fcf9a6c62 - Georgi Hristanov, 13 days ago : [INTERNAL] sap.m.ObjectHeader: Test page adjusted
+a2179263fa4 - Petar Dimov, 13 days ago : Merge "[INTERNAL] sap.ui.integration.widgets.Card: withCredentials added to cards schema"
+54f05488c4c - Plamen Ivanov, 13 days ago : Merge "[INTERNAL][FIX] sap.f.DynamicPageTitle: Aligned with Quartz Light theme"
+8f6f2cdf6da - Petya Markova-Bogdanova, 13 days ago : Merge "[FIX] sap.m.Select: Fixed failing picker in SAP Quartz theme"
+bc44bc18344 - Petya Bogdanova, 13 days ago : [FIX] sap.m.Select: Fixed failing picker in SAP Quartz theme
+5113057bbd9 - Petar Dimov, 13 days ago : [INTERNAL] sap.ui.integration.widgets.Card: withCredentials added to cards schema
+dcbd94a0da0 - Boyan Rakilovski, 13 days ago : Merge "[INTERNAL][FIX] sap.m.StepInput: Control labels are now read"
+041da827f04 - Petar Dimov, 13 days ago : Merge "[FIX] sap.f.GridContainer: Hidden controls now don't take space"
+8eb84dbd688 - Aditya Bhatia, 2 weeks ago : [INTERNAL] sap.ui.fl.Utils: Replace uniqWith() with lodash _uniqWith()
+ed0d97a8750 - Petar Dimov, 2 weeks ago : [FIX] sap.f.GridContainer: Hidden controls now don't take space
+762e36c905e - sapui5, 13 days ago : [INTERNAL] Release notes for version 1.71.0
+25e7821d113 - Nia Peeva, 13 days ago : Merge "[FIX] sap.m.MultiComboBox: Value State Error is reset correctly"
+d49ad1ccdc0 - Nia Peeva, 13 days ago : Merge "[INTERNAL] sap.m.Popover: Testsuite sample adjusted"
+8400ca9a81a - Aditya Bhatia, 2 weeks ago : [INTERNAL] sap.ui.fl.Utils: Replace omit() with lodash _omit()
