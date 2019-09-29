@@ -45,6 +45,7 @@ Features: 1 feature added.
 Bug
 - #23234 Permisson problems solved.
 - #43632 Incorrect translation corrected.
+
 Feature
 - #REQ1 GUI interface adapted
 - #REQ2 Real time monitoring is enabed.
