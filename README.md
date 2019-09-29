@@ -35,12 +35,18 @@ Example: I have two project. I wanna use one script for generating release-note.
 Expected working:
 
 generte_rn.py branch=generate_rn commit_id=3k9e3
+
 Generating Release Note:
+
 Start From 3k9e3 Commit ID to today's last commit i09id3
+
 Release-Note
+
 Version 1.0
+
 Issues: 2 issue fixed.
-Features: 1 feature added.
+
+Features: 2 feature added.
 
 Bug
 - #23234 Permisson problems solved.
@@ -49,7 +55,6 @@ Bug
 Feature
 - #REQ1 GUI interface adapted
 - #REQ2 Real time monitoring is enabed.
-
 
 
 
