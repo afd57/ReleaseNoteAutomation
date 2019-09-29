@@ -9,12 +9,14 @@ You have to declare an annotation list and each developer have to obey it.(not n
 I will follow the annotations writen in the [1] link.
 
 [1]
+
 |Annotation|Description|Example|
 | ------------ | ------------ | ------------ |
 |[INTERNAL]|used for internal stuff|git commit -m “[INTERNAL] my internal change”|
 |[FIX]|contains a bugfix|git commit -m “[FEATURE] my new feature”|
 |[FEATURE]|contains a new feature|git commit -m “[FEATURE] my new feature”|
 |DOC|contains documentation|git commit -m “[DOC] my documentation change”|
+
 
 ## 2) Version Control and Script Working
 If you maintain many version in a same project, you need to get git log in different date and branch. 
